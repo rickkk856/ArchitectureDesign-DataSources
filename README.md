@@ -5,7 +5,7 @@ Feel Free to send more DataSources (Makesure it's open sourced and link is not b
 ---------------------------------------------------------------------------------------------------------------------------------
 # Architecture & Style
 
-## Architectural styles
+### Architectural styles
 10113 images from 25 architectural styles (Multiple Sizes)
 https://www.kaggle.com/dumitrux/architectural-styles-dataset/version/1
 
