@@ -46,6 +46,14 @@ http://dag.cvc.uab.es/resources/floorplans/
 
 http://mathieu.delalandre.free.fr/projects/sesyd/symbols/floorplans.html
 
+### Pix2Pix Floorplan Dataset (Nathan Peters)
+103 Original Paired Images, and about 300 Paired Augmented Images (256x256)
+
+https://www.nathanpeters.us/enabling-alternative-architectures
+
+https://github.com/nonoesp/pix2pix-floorplans-dataset
+
+
 ### LIFULL HOME'S Dataset (Application via e-mail required)
 1.6 GB  -->  Rental data (5.33 million all over Japan)
 210 GB  -->  Image data (83 million files): floor plan image, room view, etc.
