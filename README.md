@@ -48,11 +48,18 @@ http://mathieu.delalandre.free.fr/projects/sesyd/symbols/floorplans.html
 
 ### Pix2Pix Floorplan Dataset (Nathan Peters)
 103 Original Paired Images, and about 300 Paired Augmented Images (256x256)
+From: Enabling alternative architectures - Harvard GSD
 
 https://www.nathanpeters.us/enabling-alternative-architectures
 
 https://github.com/nonoesp/pix2pix-floorplans-dataset
 
+
+### RPLAN dataset (Application via google form required)
+80787 - Building boundry (black box) (256x256) 
+From: Data-driven Interior Plan Generation for Residential Buildings (ACM Transactions on Graphics (SIGGRAPH Asia))
+
+http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html
 
 ### LIFULL HOME'S Dataset (Application via e-mail required)
 1.6 GB  -->  Rental data (5.33 million all over Japan)
@@ -96,5 +103,6 @@ https://www.kaggle.com/hyyyrwang/buildings-dataset
 
 ### Massachusetts Buildings Dataset
 151 Aerial Images of Boston City to aid Machine Learning for Aerial Image Labeling (1500x1500)
+
 https://www.kaggle.com/balraj98/massachusetts-buildings-dataset
 
