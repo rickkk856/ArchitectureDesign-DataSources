@@ -1,6 +1,9 @@
-# ArchitectureDesign-DataSources
+# Architecture-Design-DataSources
 In this repository i've gathered multiple data sources for experiments on architecture and design using image processing such as GANs or CNNs and many other techniques
 Feel Free to send more DataSources (Makesure it's open sourced and link is not broken)
+
+Data is like ingredients to machine learning models, algorithms are like the pan you're preparing it, and GPUs would be the fire!
+Pick up the right ones and make your own recipe
 
 ---------------------------------------------------------------------------------------------------------------------------------
 # Architecture & Style
@@ -70,8 +73,26 @@ https://www.nii.ac.jp/dsc/idr/en/lifull/
 
 https://github.com/Littel-Laboratory/homes-dataset-tools
 
+### HouseExpo is a large-scale dataset of indoor layout built on SUNCG dataset
+There are 35,126 2D floor plans with 252,550 rooms, with mean of 7.14 and median of 7.0 rooms per house. Together with the category label of each room
+
+https://github.com/teaganli/houseexpo/
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
 # Interior & Design
+
+### InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset
+An end-to-end pipeline to render an RGB-D-inertial benchmark for large scale interior scene understanding and mapping. Contains 20M images
+
+https://interiornet.org/
+
+### 3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
+3D-FRONT contains 18,797 rooms diversely furnished by 3D objects
+7,302 furniture objects all come with high-quality textures
+
+https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset
 
 ### Chairstool
 948 Images of Chairs (Multiple Sizes)
@@ -105,4 +126,53 @@ https://www.kaggle.com/hyyyrwang/buildings-dataset
 151 Aerial Images of Boston City to aid Machine Learning for Aerial Image Labeling (1500x1500)
 
 https://www.kaggle.com/balraj98/massachusetts-buildings-dataset
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+# Structure Related Datasets
+
+### Structured3D 
+Is a large-scale photo-realistic dataset containing 3.5K house designs (a) created by professional designers with a variety of ground truth 3D structure annotations
+
+https://github.com/bertjiazheng/Structured3D
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+# 3D Datasets
+
+### SUNCG
+SUNCG is a large-scale dataset of synthetic 3D scenes with dense volumetric annotations.
+
+https://sscnet.cs.princeton.edu/
+
+### ShapeNet
+The repository contains over 300M models with 220,000 classified into 3,135 classes arranged using WordNet hypernym-hyponym relationships.
+ShapeNet Parts subset contains 31,693 meshes categorised into 16 common object classes (i.e. table, chair, plane etc.). 
+Each shapes ground truth contains 2-5 parts (with a total of 50 part classes).
+
+https://shapenet.org/
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+# Others (Unusual)
+
+### Minecraft House
+There are 2586 houses in total, x-y-z dimensions
+
+https://github.com/facebookresearch/droidlet
+
+---------------------------------------------------------------------------------------------------------------------------------
+# DIVERSE DATA SOURCES
+
+### Papers With Code
+https://paperswithcode.com/datasets
+
+### Kaggle
+https://www.kaggle.com/datasets
+
+### Google Datasets Search Engine
+https://datasetsearch.research.google.com/
+
+### OTHERS
+https://www.interviewqs.com/blog/free-online-data-sets
 
