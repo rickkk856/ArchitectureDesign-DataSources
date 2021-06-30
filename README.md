@@ -13,6 +13,12 @@ Pick up the right ones and make your own recipe
 
 https://www.kaggle.com/dumitrux/architectural-styles-dataset/version/1
 
+### Architectural Styles Periods Dataset
+This dataset contains 12.3k+ images of architecture organized into 9 different categories based on time periods. 
+
+https://www.kaggle.com/gustavoachavez/architectural-styles-periods-dataset
+
+
 ### Two Sigma Connect: Rental Listing Inquiries (Competition)
 78.5GB Total size of images from renthop.com NYC - Apartament pictures (Sample + Torrent Download - Multiple Sizes)
 
@@ -161,6 +167,24 @@ There are 2586 houses in total, x-y-z dimensions
 
 https://github.com/facebookresearch/droidlet
 
+
+
+### Door dataset for MRCNN
+
+https://www.kaggle.com/raypratik/door-dataset-for-mrcnn
+
+
+### Architectural Heritage
+9565 images of Church elements
+
+https://www.kaggle.com/adeshg/architectural-heritage
+
+
+### City problems dataset
+8 classe of: there is no event, fallen tree, fire, flooding, bad road, traffic jam, garbage, traffic accident
+
+https://www.kaggle.com/tunhunhminh/demodata
+
 ---------------------------------------------------------------------------------------------------------------------------------
 # DIVERSE DATA SOURCES
 
@@ -172,6 +196,9 @@ https://www.kaggle.com/datasets
 
 ### Google Datasets Search Engine
 https://datasetsearch.research.google.com/
+
+### Google Know Your Data
+https://knowyourdata-tfds.withgoogle.com/ 
 
 ### OTHERS
 https://www.interviewqs.com/blog/free-online-data-sets
